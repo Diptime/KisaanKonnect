@@ -10977,6 +10977,11 @@ div {
     box-sizing: border-box
 }
 
+.contact-icons {
+  list-style-type: none;
+  text-align: center;
+}
+
 .bbb_deals_featured {
     width: 100%
 }
@@ -11099,6 +11104,7 @@ div {
     .about-page {
       margin-bottom: 250px;
     }
+<<<<<<< HEAD
     /*----cart items----*/
     .cart-page{
       margin: 80px auto;
@@ -11126,3 +11132,5 @@ div {
       height: 30px;
       padding: 5px ;
     }
+=======
+>>>>>>> 68a2f2e6e956f81349f3b580e112efff022e7ce2
