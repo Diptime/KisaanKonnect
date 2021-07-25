@@ -10977,6 +10977,11 @@ div {
     box-sizing: border-box
 }
 
+.contact-icons {
+  list-style-type: none;
+  text-align: center;
+}
+
 .bbb_deals_featured {
     width: 100%
 }
@@ -11099,4 +11104,3 @@ div {
     .about-page {
       margin-bottom: 250px;
     }
-    
