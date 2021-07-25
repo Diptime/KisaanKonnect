@@ -11099,4 +11099,30 @@ div {
     .about-page {
       margin-bottom: 250px;
     }
-    
+    /*----cart items----*/
+    .cart-page{
+      margin: 80px auto;
+    }
+    table{
+      width :100%;
+      border-collapse: collapse;
+    }
+    .cart-info{
+      display: flex;
+      flex-wrap: wrap;
+    }
+    th{
+      text-align: left;
+      padding: 5px;
+      color:#0c4128;
+      font-weight: normal;
+      background: #0c4128;
+    }
+    td{
+      padding: 10px 5px;
+    }
+    td input{
+      width: 40px;
+      height: 30px;
+      padding: 5px ;
+    }
